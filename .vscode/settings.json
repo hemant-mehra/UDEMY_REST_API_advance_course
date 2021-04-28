@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "d:\\study\\UDEMY\\REST_APIs\\venv_rest\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "editor.fontLigatures": true,
+    "python.linting.flake8Args": [
+        "--ignore=E402,F401,E305,E501",
+    ],
+}

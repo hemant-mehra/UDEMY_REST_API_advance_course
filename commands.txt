@@ -1,0 +1,27 @@
+to run tests:
+
+docker-compose run app sh -c "python manage.py test"
+
+
+
+
+to run surver:
+
+docker-compose run app sh -c "python manage.py runserver 0.0.0.0:8000"
+
+
+
+to create app:
+
+docker-compose run app sh -c "python manage.py startapp "
+
+
+
+tp create project:
+
+docker-compose run app sh -c "django-admin.py startproject"
+
+
+
+
+
